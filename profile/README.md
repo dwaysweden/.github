@@ -8,7 +8,7 @@
 We are **Digital Way** or [***dway***](https://dway.se) that we usually say. We are constantly looking for new projects and are open to collaborations.
 Almost all our projects are powered by open source. We have chosen to specialize in the automotive industry 🚗 and help several companies with smart and simple solutions, but of course we also help companies in other industries. 🤖🪄
 
-[![Our Skills](https://skillicons.dev/icons?i=vue,nuxtjs,docker,azure,html,js,css,sass,tailwind,nginx,nodejs,ps,firebase,vite,wordpress&perline=12)](https://skillicons.dev)
+[![Our Skills](https://skillicons.dev/icons?i=vue,nuxtjs,docker,azure,html,js,css,sass,tailwind,nginx,nodejs,ps,firebase,vite,wordpress)](https://skillicons.dev)
 
 # 💬 Get in touch! 
 Learn more about what we can do for you at [our home page](https://dway.se), don't hesitate to contact us if you have any questions. We take care of all kinds of projects. 🥷🏼
