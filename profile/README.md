@@ -11,23 +11,14 @@ Almost all our projects are powered by open source. We have chosen to specialize
 [![Our Skills](https://skillicons.dev/icons?i=vue,nuxtjs,docker,azure,html,js,css,sass,tailwind,nginx,nodejs,ps,firebase,vite,wordpress)](https://skillicons.dev)
 
 # 💬 Connect with us! 
-Learn more about what we can do for you at [our home page](https://dway.se), don't hesitate to contact us if you have any questions. We take care of all kinds of projects. 🥷🏼
+Learn more about what we can do for you at our [homepage](https://dway.se), don't hesitate to contact us if you have any questions. <br />
+We take care of all kinds of projects. 🥷🏼
 
-> <a href="https://facebook.com/dwaysverige/"><img align="left" src="" alt="Digital Way | Facebook" width="21px"/></a>
-
-> <a href="https://instagram.com/dwaysverige"><img align="left" src="" alt="Digital Way | Instagram" width="21px"/></a>
-
-> <a href="https://github.com/dwaysweden/"><img align="left" src="" alt="Digital Way | GitHub" width="21px"/></a>
-
+<a href="https://facebook.com/dwaysverige/"><img align="left" src="https://raw.githubusercontent.com/dwaysweden/.github/main/icons/facebook.svg" alt="Digital Way | Facebook" width="36px"/></a>
+<br />
+<a href="https://instagram.com/dwaysverige"><img align="left" src="https://raw.githubusercontent.com/dwaysweden/.github/main/icons/instagram.svg" alt="Digital Way | Instagram" width="36px"/></a>
+<br />
+<a href="https://github.com/dwaysweden/"><img align="left" src="https://raw.githubusercontent.com/dwaysweden/.github/main/icons/github-dark.svg" alt="Digital Way | GitHub" width="36px"/></a>
+<br />
 ✉️ [Send us an Email](mailto:hej@dway.se) 
 
-
-<!--
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
