@@ -10,8 +10,14 @@ Almost all our projects are powered by open source. We have chosen to specialize
 
 [![Our Skills](https://skillicons.dev/icons?i=vue,nuxtjs,docker,azure,html,js,css,sass,tailwind,nginx,nodejs,ps,firebase,vite,wordpress)](https://skillicons.dev)
 
-# 💬 Get in touch! 
+# 💬 Connect with us! 
 Learn more about what we can do for you at [our home page](https://dway.se), don't hesitate to contact us if you have any questions. We take care of all kinds of projects. 🥷🏼
+
+> <a href="https://facebook.com/dwaysverige/"><img align="left" src="" alt="Digital Way | Facebook" width="21px"/></a>
+
+> <a href="https://instagram.com/dwaysverige"><img align="left" src="" alt="Digital Way | Instagram" width="21px"/></a>
+
+> <a href="https://github.com/dwaysweden/"><img align="left" src="" alt="Digital Way | GitHub" width="21px"/></a>
 
 ✉️ [Send us an Email](mailto:hej@dway.se) 
 
