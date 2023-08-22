@@ -15,19 +15,15 @@ Learn more about what we can do for you at our [homepage](https://dway.se), don'
 We take care of all kinds of projects. 🥷🏼
 
 
-<a href="https://facebook.com/dwaysverige/"><img src="https://raw.githubusercontent.com/dwaysweden/.github/main/icons/facebook.svg" alt="Digital Way | Facebook" width="21px"/></a> 
-  ***- See our latest news on Facebook*** 
+<a href="https://facebook.com/dwaysverige/"><img src="https://raw.githubusercontent.com/dwaysweden/.github/main/icons/facebook.svg" alt="Digital Way | Facebook" width="21px"/>  ***- See our latest news on Facebook*** </a> 
 
 
-<a href="https://instagram.com/dwaysverige"><img src="https://raw.githubusercontent.com/dwaysweden/.github/main/icons/instagram.svg" alt="Digital Way | Instagram" width="21px"/></a>
-  ***- Follow us on Instagram***
+<a href="https://instagram.com/dwaysverige"><img src="https://raw.githubusercontent.com/dwaysweden/.github/main/icons/instagram.svg" alt="Digital Way | Instagram" width="21px"/> ***- Follow us on Instagram***</a>
 
 
-<a href="https://github.com/dwaysweden/"><img src="https://raw.githubusercontent.com/dwaysweden/.github/main/icons/github-dark.svg" alt="Digital Way | GitHub" width="21px"/></a>
-  ***- Collaborate with us on GitHub***
+<a href="https://github.com/dwaysweden/"><img src="https://raw.githubusercontent.com/dwaysweden/.github/main/icons/github-dark.svg" alt="Digital Way | GitHub" width="21px"/> ***- Collaborate with us on GitHub***</a>
 
 
-<a href="mailto:hej@dway.se"><img src="https://raw.githubusercontent.com/dwaysweden/.github/main/icons/mail.svg" alt="Digital Way | Mail" width="21px"/></a>
-  ***- Send us an Email***
+<a href="mailto:hej@dway.se"><img src="https://raw.githubusercontent.com/dwaysweden/.github/main/icons/mail.svg" alt="Digital Way | Mail" width="21px"/> ***- Send us an Email***</a>
 
 
