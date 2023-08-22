@@ -14,12 +14,20 @@ Almost all our projects are powered by open source. We have chosen to specialize
 Learn more about what we can do for you at our [homepage](https://dway.se), don't hesitate to contact us if you have any questions. <br />
 We take care of all kinds of projects. 🥷🏼
 
-See our latest news on Facebook <a href="https://facebook.com/dwaysverige/"><img align="left" src="https://raw.githubusercontent.com/dwaysweden/.github/main/icons/facebook.svg" alt="Digital Way | Facebook" width="36px"/></a>
+
+<a href="https://facebook.com/dwaysverige/"><img src="https://raw.githubusercontent.com/dwaysweden/.github/main/icons/facebook.svg" alt="Digital Way | Facebook" width="21px"/></a> 
+  ***- See our latest news on Facebook*** 
 
 
-Follow us on Instagram <a href="https://instagram.com/dwaysverige"><img align="left" src="https://raw.githubusercontent.com/dwaysweden/.github/main/icons/instagram.svg" alt="Digital Way | Instagram" width="36px"/></a>
+<a href="https://instagram.com/dwaysverige"><img src="https://raw.githubusercontent.com/dwaysweden/.github/main/icons/instagram.svg" alt="Digital Way | Instagram" width="21px"/></a>
+  ***- Follow us on Instagram***
 
-Collaborate with us on GitHub <a href="https://github.com/dwaysweden/"><img align="left" src="https://raw.githubusercontent.com/dwaysweden/.github/main/icons/github-dark.svg" alt="Digital Way | GitHub" width="36px"/></a>
 
-:envelope: [Send us an Email](mailto:hej@dway.se) 
+<a href="https://github.com/dwaysweden/"><img src="https://raw.githubusercontent.com/dwaysweden/.github/main/icons/github-dark.svg" alt="Digital Way | GitHub" width="21px"/></a>
+  ***- Collaborate with us on GitHub***
+
+
+<a href="mailto:hej@dway.se"><img src="https://raw.githubusercontent.com/dwaysweden/.github/main/icons/mail.svg" alt="Digital Way | Mail" width="21px"/></a>
+  ***- Send us an Email***
+
 
